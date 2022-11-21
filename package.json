@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1": "node ./day1/index.js",
+    "day2": "node ./day2/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacerdev/advent-of-code-2021.git"
+  },
+  "author": "sacerdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacerdev/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/sacerdev/advent-of-code-2021#readme"
+}
